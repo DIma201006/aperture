@@ -1,0 +1,369 @@
+a {
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1,h2,h3,h4,p {
+margin: 0;
+}
+
+button {
+    margin: 0;  
+    padding: 0;
+    border: 0;
+}
+img {
+    margin-right: 340px;
+}
+
+
+
+
+  
+
+
+
+
+.conteyner {
+    padding-right: 16px;
+    padding-left: 16px;
+    width: 1350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    padding-top: 30px;
+    padding-bottom: 24px;
+    background-color:#181818;
+}
+
+.box { 
+    display: flex;
+}
+
+
+
+.heder-list {
+    display: flex;
+    gap: 32px;
+}
+
+/* .box {
+    
+} */
+
+
+.heder-link {
+color: #FFF;
+font-family: Poppins;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+}
+
+.hop {
+    margin-right: 24px;
+}
+
+.sok {
+    margin-left: 24px;
+}
+
+.heder-link:hover {
+    padding-top: 9px;
+    padding-bottom: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #FFF;
+    border-radius: 14px;
+    color: #000;
+}
+
+/* golovna */
+
+/* .golovna {
+
+
+} */
+
+
+ .poleznuy {
+    padding-top: 466px;
+    padding-bottom: 70px;
+    background-image: linear-gradient(0deg, #000 18.78%, rgba(0, 0, 0, 0.00) 98.53%), url(./img/more.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }   
+
+
+.golovna-text {
+color: #C0C0C0;
+text-align: center;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 2px;
+text-transform: uppercase;
+margin-bottom: 1px;
+}
+
+.golovna-title {
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 54px;
+font-style: normal;
+font-weight: 400;
+line-height: 59.4px;
+margin-bottom: 18px;
+}
+
+.golovna-p {
+color: #C0C0C0;
+text-align: center;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; 
+width: 580px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+ 
+
+
+.dddd {
+    padding-top: 112px;
+    padding-bottom: 100px;
+    background:#000;
+}
+
+
+.photo-list {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.photo-item {
+background-image:url(./img/noout.png);
+padding-top: 421px;
+padding-bottom: 30px;
+padding-right: 45px;
+padding-left: 30px;
+background-repeat: no-repeat;
+
+}
+
+.photo-item:nth-child(2) {
+    background-image: url(./img/piramida.png);
+    padding-top: 421px;
+padding-bottom: 30px;
+padding-right: 32px;
+padding-left: 30px;
+
+}
+
+
+.photo-item:nth-child(3) {
+    background-image: url(./img/les.png);
+    padding-top: 401px;
+padding-bottom: 30px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+
+.photo-item:nth-child(4) {
+    background-image: url(./img/oleni.png);
+       padding-top: 401px;
+padding-bottom: 30px;
+padding-right: 66px;
+padding-left: 30px; 
+}
+
+.photo-titlee {
+  color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: 42px; 
+}
+
+
+.photo-teext {
+color: #C0C0C0;
+text-align: center;
+font-family: Poppins;
+font-size: 23px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.photo-title {
+    color: #FFF;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+
+.photo-text {
+    color: #C0C0C0;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+width: 501px;
+height: 80px;
+}
+
+.photo-text:nth-child(2) {
+    width: 514px;
+height: 80px;
+}
+
+.photo-button {
+color: #000;
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; 
+letter-spacing: 0.4px;
+border-radius: 14px;
+background: #FFF;
+width: 143px;
+height: 42px;
+}
+
+/* gora */
+
+ /* .gora {
+background-image: url(img/gora.jpg);
+width: 1440px;
+height: 600px;
+padding-top: 260px;
+padding-bottom: 260px;
+ } */
+
+ .ppp {
+background-size:cover;
+background-image: url(img/gora.jpg);
+width: 2150px;
+height: 800px;
+ }
+
+ .gora-title {
+    color: #FFF;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; 
+letter-spacing: 2px;
+text-transform: uppercase;
+margin-left: 1080px;
+padding-top: 260px;
+ }
+
+ .gora-text {
+    color: #C0C0C0;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; 
+margin-bottom: 700px;
+width: 298px;
+margin-left: 1080px;
+}
+
+
+
+
+.log {
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+
+.lllf {
+    flex-wrap: wrap;
+}
+
+.vvv {
+    background-color: #000;
+}
+
+.tehnika-p {
+    color: #C0C0C0;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 2px;
+text-transform: uppercase;
+margin-bottom: 6px;
+margin-top: 173px;
+}
+
+.tehnika-title {
+color: #FFF;
+font-family: Poppins;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+margin-bottom:14px;
+}
+
+
+.tehnika-text {
+color: #FFF;
+width: 514px;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+margin-bottom: 20px;
+margin-right: 106px;
+}
+
+.tehnika-button {
+color: #000;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; 
+letter-spacing: 0.4px;
+border-radius: 14px;
+background: #FFF;
+width: 152px;
+height: 42px;
+}
+
+
+    
